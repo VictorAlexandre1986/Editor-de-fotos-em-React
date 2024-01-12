@@ -1,4 +1,4 @@
-Editor de foto em React
+# Editor de foto em React
 
   Primeiro é necessário instalar os pacotes utilizando o comando :
   ```
@@ -8,7 +8,7 @@ npm install
 ```
 npm run dev
 ```
-Obs: Lembrando que é necessário estar dentro da pasta Editor_de_foto para instalar e rodar o app
+Obs: Lembrando que é necessário estar dentro da pasta Editor_de_foto para instalar os pacotes e rodar o app
 
 ## Tecnologias utilizadas
 
