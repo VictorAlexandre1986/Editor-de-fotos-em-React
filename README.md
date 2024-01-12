@@ -21,4 +21,7 @@ Obs: Lembrando que é necessário estar dentro da pasta Editor_de_foto para inst
 
 ## Screenshot
 
+  <img src="Screenshot1.png">
+
+  <img src="Screenshot2.png">
 
